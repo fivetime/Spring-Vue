@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cc.mrbird</groupId>
-    <artifactId>febs_shiro_jwt</artifactId>
-    <version>1.0.0-release</version>
+    <artifactId>Spring-Vue</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>febs_shiro_jwt</name>
@@ -162,7 +162,7 @@
             <artifactId>annotations</artifactId>
             <version>15.0</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/javax.validation/validation-api -->
+
         <dependency>
             <groupId>javax.validation</groupId>
             <artifactId>validation-api</artifactId>
@@ -174,16 +174,7 @@
             <artifactId>xml-apis</artifactId>
             <version>1.4.01</version>
         </dependency>
-
     </dependencies>
-
-<!--    <repositories>-->
-<!--        <repository>-->
-<!--            <id>nexus-aliyun</id>-->
-<!--            <name>Nexus aliyun</name>-->
-<!--            <url>http://maven.aliyun.com/nexus/content/groups/public</url>-->
-<!--        </repository>-->
-<!--    </repositories>-->
 
     <build>
         <plugins>
