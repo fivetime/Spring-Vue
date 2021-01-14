@@ -8,8 +8,8 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>febs_shiro_jwt</name>
-    <description>FEBS_Shrio_JWT</description>
+    <name>Spring-Vue</name>
+    <description>Spring-Vue</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
